@@ -188,3 +188,6 @@ SurfShark提供30天退款保证，并提供7天24小时客服，如果购买后
 2. 写邮件给 support@surfshark.com
 
 
+---
+
+本项目原始地址：[https://github.com/Super-VPN/Super-VPN.github.io](https://github.com/Super-VPN/Super-VPN.github.io)
